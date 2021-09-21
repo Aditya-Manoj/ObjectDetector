@@ -11,3 +11,5 @@ The COCO Dataset(Common Objects in Context)
 - https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 labels.txt - List of 80 Labels that the Detected Objects are Classified Under
+frozen_inference_graph.pb - The protbuf file containing the graph definition as well as the weights of the model.
+ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt - The Config File
